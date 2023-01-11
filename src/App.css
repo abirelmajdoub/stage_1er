@@ -14,10 +14,13 @@
 .text-pr{
   color: #fff;
   font-family: playfair display;
-  font-size: 75px;
+  font-size: 55px;
   font-weight: 700;
 }
 
+h1{
+  font-family: playfair display;
+}
 .text-pr2{
   color: #fff;
   font-family: playfair display;
@@ -39,4 +42,7 @@
 .mt-top{
   position: relative;
   margin-top: -60px !important;
+}
+.mar{
+  margin-top: 200px;
 }
