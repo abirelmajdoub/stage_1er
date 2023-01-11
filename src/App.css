@@ -1,3 +1,42 @@
-p{
-  color: red;
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.container-image {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+.text-pr{
+  color: #fff;
+  font-family: playfair display;
+  font-size: 75px;
+  font-weight: 700;
+}
+
+.text-pr2{
+  color: #fff;
+  font-family: playfair display;
+  font-size: 25px;
+  margin-top: 55px;
+}
+
+.button{
+  margin-top: 120px;
+  background-color: red;
+  color: #fff;
+  text-transform: capitalize;
+  border: none;
+  outline: none;
+  padding: 10px 18px;
+  border-radius: 4px;
+}
+
+.mt-top{
+  position: relative;
+  margin-top: -60px !important;
 }
