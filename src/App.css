@@ -46,3 +46,84 @@ h1{
 .mar{
   margin-top: 200px;
 }
+
+.img-bg{
+  background-image: url(https://powerpackelements.com/wp-content/uploads/2018/01/cta-bg.jpg);
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.space-top{
+  top: 250px !important;
+  left: 50%;
+}
+
+.first-img{
+  max-width: 100%;
+}
+
+.centred button{
+  margin-top: 120px;
+  background-color: red;
+  color: #fff;
+  text-transform: capitalize;
+  border: none;
+  outline: none;
+  padding: 10px 18px;
+  border-radius: 4px;
+}
+.aaa{
+  max-width: 100%;
+}
+
+
+.button-center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.know{
+  text-transform: uppercase;
+  border: 1px solid mediumorchid !important;
+  outline: none;
+  padding: 10px 18px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.hr{
+  border: solid 1px gray !important;
+  margin-bottom: 100px !important;
+}
+.call{
+  text-align: center;
+}
+.book{
+  color: red;
+}
+.text{
+  text-align: center;
+}
+b{
+  background-color: red; 
+}
+
+
+.img-col{
+  background-image: var(--bg-image);
+  background-repeat: no-repeat;
+  height: 350px;
+  border-radius: 15px;
+  max-width: 100%;
+}
+.button-b{
+  background-color: red;
+  color: #fff;
+  text-transform: capitalize;
+  border: none;
+  outline: none;
+  padding: 10px 18px;
+  border-radius: 4px;
+  margin-top: 300px;
+}
